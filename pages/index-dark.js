@@ -31,11 +31,7 @@ const IndexDark = () => {
       <Home dark />
       <About />
       <ExpertAreas />
-      <Services />
       <Projects />
-      <Feedback dark />
-      <Blog />
-      <Partners dark />
       <Contact />
       <CopyRight />
       <Mouse />
