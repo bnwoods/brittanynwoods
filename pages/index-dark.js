@@ -13,9 +13,6 @@ import ProgressBar from "../src/layouts/ProgressBar";
 const Projects = dynamic(() => import("../src/components/Projects"), {
   ssr: false,
 });
-const Partners = dynamic(() => import("../src/components/Partners"), {
-  ssr: false,
-});
 
 const IndexDark = () => {
   useEffect(() => {
