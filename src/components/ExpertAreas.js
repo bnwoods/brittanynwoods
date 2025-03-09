@@ -79,7 +79,7 @@ const ExpertAreas = () => {
                   <p>
                     I have a very broad range in both technical and leadership roles
                     in technology. I have led Site Reliability Engineers, Data Engineers, Software Developers,
-                    Infrastructure Engineers, and Cloud Engineers. I'm comfortable in both technical and non-technical
+                    Infrastructure Engineers, and Cloud Engineers. I am comfortable in both technical and non-technical
                     conversations and can effectively build future-focused strategies in these spaces as well. 
                   </p>
                 </div>

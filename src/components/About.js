@@ -27,7 +27,7 @@ const About = () => {
                 she works for and in the larger community. Brittany has worked in several technical and leadership
                 roles focused on increasing developer experience, building platform engineering functions, and driving
                 innovation. She has also put a significant focus on improving organizational culture, examples of which can
-                be seen through her talks on the topic. Brittany has been featured in the book "97 Things Every Cloud Engineer Should Know"
+                be seen through her talks on the topic. Brittany has been featured in the book 97 Things Every Cloud Engineer Should Know
                 with her article on silos in modern tech teams.
               </p>
             </div>

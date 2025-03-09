@@ -13,7 +13,7 @@ const Contact = () => {
             </div>
             <div className="text">
               <h3>{`Interested`} in working together?</h3>
-              <p>I'm always open to chatting about how we can work together. Are you looking for a speaker for your conference or event? Are you looking for expertise in digital transformation, DevOps, or Cloud Automation? Feel free to get in touch!</p>
+              <p>I am always open to chatting about how we can work together. Are you looking for a speaker for your conference or event? Are you looking for expertise in digital transformation, DevOps, or Cloud Automation? Feel free to get in touch!</p>
             </div>
             <div className="orido_tm_boxed_button">
               <a href="mailto:brittanywoods2008@gmail.com">
