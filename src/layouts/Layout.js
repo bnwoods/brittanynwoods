@@ -22,7 +22,7 @@ const Layout = ({ children }) => {
   return (
     <Fragment>
       <Head>
-        <title>Orido | Home</title>
+        <title>Brittany Woods</title>
       </Head>
       <PreLoader />
       <ImageView />
