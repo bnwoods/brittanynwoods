@@ -104,7 +104,7 @@ const Projects = () => {
                     <div className="details">
                       <span className="category">Youtube</span>
                       <h3 className="title">
-                        <span>ChefConf 2022 - Config Management Isn't Dead</span>
+                        <span>ChefConf 2022 - Config Management Isnt Dead</span>
                       </h3>
                     </div>
                     <a
