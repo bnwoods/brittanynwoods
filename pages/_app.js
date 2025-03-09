@@ -33,6 +33,7 @@ function MyApp({ Component, pageProps }) {
           href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap"
           rel="stylesheet"
         />
+      </Head>
       <Script
         src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}`}
         strategy="afterInteractive"
@@ -45,7 +46,6 @@ function MyApp({ Component, pageProps }) {
           gtag('config', '${process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID}');
         `}
       </Script>
-      </Head>
       <Component {...pageProps} />
     </Fragment>
   );
